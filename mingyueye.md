@@ -28,5 +28,5 @@ ChatGPT 说这样的人也许与我在同一栋楼宇中喝茶，赶同一趟火
 
 <br>
 <div align="center">
-  <a href="index.md">🔙 返回老阿姨更年期手记首页</a>
+  <a href="/">🔙 返回老阿姨更年期手记首页</a>
 </div>
