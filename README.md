@@ -4,7 +4,7 @@
 > “相逢不识，诉于流光。心如琉璃，照见来路。”
 > *Meeting without knowing, confiding in the flow of time. A heart like glaze, reflecting the path traveled.*
 
-欢迎来到我的赛博自留地。这里记录了一个旅居爱尔兰的算账小会计（FAAs）、十八级生活残废的更年期呓语、职场渡劫与无情道修心录。
+欢迎来到我的自留地。这里记录了一个旅居爱尔兰的算账小会计（FAAs）、十八级生活残废的更年期呓语、职场渡劫与无情道修心录。
 Welcome to my cyber sanctuary. This repository chronicles the musings, workplace survival guides, and reflections of a finance professional living in Ireland.
 
 ---
