@@ -13,15 +13,15 @@
 
 ## Table of Contents
 
-* [Abstract](abstract.html)
-* [Chapter 1: Introduction](chapter1.html)
-* [Chapter 2: Literature Review](chapter2.html)
-* [Chapter 3: Research Design and Analytical Methodology](chapter3.html)
-* [Chapter 4: Data and Methodology](chapter4.html)
-* [Chapter 5: Model and Result Analysis](chapter5.html)
-* [Chapter 6: Conclusion](chapter6.html)
-* [Appendix 1: Statement on the Use of Generative AI Tools](appendix1.html)
-* [Appendix 2: Reference List](appendix2.html)
+* [Abstract](abstract.md)
+* [Chapter 1: Introduction](chapter1.md)
+* [Chapter 2: Literature Review](chapter2.md)
+* [Chapter 3: Research Design and Analytical Methodology](chapter3.md)
+* [Chapter 4: Data and Methodology](chapter4.md)
+* [Chapter 5: Model and Result Analysis](chapter5.md)
+* [Chapter 6: Conclusion](chapter6.md)
+* [Appendix 1: Statement on the Use of Generative AI Tools](appendix1.md)
+* [Appendix 2: Reference List](appendix2.md)
 
 ---
 *Note: Click on the chapter links above to navigate through the full manuscript.*
