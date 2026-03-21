@@ -8,11 +8,16 @@
 The overall research objective is to establish a systematic analysis framework that bridges the physical world and financial markets, and to conduct a comprehensive and in-depth investigation of the entire transmission chain from farm fields to financial markets.
 
 This overall objective will be realised by answering the questions below.
-* How do abnormal events, categorised by severity and occurrence time, impact the yield of the four main crops in the primary production regions? 
-* Is the impact and relationship linear or non-linear?
-* How do the two or more events interact and impose compound effects?
-* How does the physical world's shock transmission affect the financial market? 
-* What level of impact, and how does the market mechanism price those weather-related risks? 
+
+**1.** How do abnormal events, categorised by severity and occurrence time, impact the yield of the four main crops in the primary production regions? 
+
+**2.** Is the impact and relationship linear or non-linear?
+
+**3.** How do the two or more events interact and impose compound effects?
+
+**4.** How does the physical world's shock transmission affect the financial market? 
+
+**5.** What level of impact, and how does the market mechanism price those weather-related risks? 
 
 ### 1.2 The Data Preparation and Feature Engineering
 We have utilised multiple sources of heterogeneous data, including ERA5-Land global climate data, the Iizumi global crops’ yield dataset, and the S&P GSCI wheat Index. Based on these datasets, this research has implemented a three-stage data preparation procedure, spanning the scope of the data range to spatial-temporal standardisation. Finally, it constitutes a composite index of quantitative abnormal weather events. 
