@@ -58,40 +58,7 @@
   > *注：内含 XGBoost 与 SHAP 算法对极端天气与全球金融市场非线性冲击的量化研判全卷，全英文高能预警。*
 
 ---
----
 
----
-
----
-
----
-
-### 飞鸽传书 (Contact Me)
-
-> 如今世间，算法纷扰，俗人萧萧。
-> 于此地驻阁，但求一方清净。
-> 藏于千年玄冰之下，与后世之人做一玩笑之语；
-> 于炼丹筑基、Python 语句之中，藏一片冰心玉壶。
-> 阁下误入此地，虽非旧识，仍为新交。
-> 若阅此间呓语，尚觉可堪一笑，留书与否但凭心意。
-> 江湖不必深究，琉璃镜湖照前路过往，嘻笑怒骂皆付与清风。
-
-<div markdown="0">
-  <form action="https://formspree.io/f/mvzwnnbv" method="POST" style="max-width: 500px; margin-top: 25px;">
-    <div style="margin-bottom: 15px;">
-      <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #333;">阁下怎么称呼 (Name)：</label>
-      <input type="text" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;">
-    </div>
-    <div style="margin-bottom: 15px;">
-      <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #333;">您的回信邮箱 (Email)：</label>
-      <input type="email" name="email" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;">
-    </div>
-    <div style="margin-bottom: 15px;">
-      <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #333;">想对老阿姨说的话 (Message)：</label>
-      <textarea name="message" rows="5" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; resize: vertical;"></textarea>
-    </div>
-    <button type="submit" style="padding: 10px 20px; background-color: #4a5568; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">投递信件 (Send)</button>
-  </form>
 
   <br><br>
   <div align="center" style="color: #666;">
