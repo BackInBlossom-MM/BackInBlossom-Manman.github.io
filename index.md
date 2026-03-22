@@ -62,6 +62,8 @@
 
 ---
 
+---
+
 ### 飞鸽传书 (Contact Me)
 
 > 如今世间，算法纷扰，俗人萧萧。
@@ -73,23 +75,23 @@
 > 江湖不必深究，琉璃镜湖照前路过往，嘻笑怒骂皆付与清风。
 
 <form action="https://formspree.io/f/mvzwnnbv" method="POST" style="max-width: 500px; margin-top: 25px;">
-  <div style="margin-bottom: 15px;">
-    <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #333;">阁下怎么称呼 (Name)：</label>
-    <input type="text" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; background-color: #fcfcfc;">
-  </div>
-  <div style="margin-bottom: 15px;">
-    <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #333;">您的回信邮箱 (Email)：</label>
-    <input type="email" name="email" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; background-color: #fcfcfc;">
-  </div>
-  <div style="margin-bottom: 15px;">
-    <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #333;">想对老阿姨说的话 (Message)：</label>
-    <textarea name="message" rows="5" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; background-color: #fcfcfc; resize: vertical;"></textarea>
-  </div>
-  <button type="submit" style="padding: 10px 20px; background-color: #4a5568; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">投递信件 (Send)</button>
+<div style="margin-bottom: 15px;">
+<label style="display: block; margin-bottom: 5px; font-weight: bold; color: #333;">阁下怎么称呼 (Name)：</label>
+<input type="text" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; background-color: #fcfcfc;">
+</div>
+<div style="margin-bottom: 15px;">
+<label style="display: block; margin-bottom: 5px; font-weight: bold; color: #333;">您的回信邮箱 (Email)：</label>
+<input type="email" name="email" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; background-color: #fcfcfc;">
+</div>
+<div style="margin-bottom: 15px;">
+<label style="display: block; margin-bottom: 5px; font-weight: bold; color: #333;">想对老阿姨说的话 (Message)：</label>
+<textarea name="message" rows="5" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; background-color: #fcfcfc; resize: vertical;"></textarea>
+</div>
+<button type="submit" style="padding: 10px 20px; background-color: #4a5568; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">投递信件 (Send)</button>
 </form>
 
 <br><br>
 <div align="center">
-  <i>此间旧事，博诸君一笑；记之于此，付与清风。</i><br>
-  © 爱岛算账小会计的更年期渡劫手记
+<i>此间旧事，博诸君一笑；记之于此，付与清风。</i><br>
+© 爱岛算账小会计的更年期渡劫手记
 </div>
